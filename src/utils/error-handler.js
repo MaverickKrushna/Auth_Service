@@ -14,4 +14,4 @@ class AppErrors extends Error {
     }
 }
 
-module.exports = AppErrors;
+module.exports = AppErrors; 
